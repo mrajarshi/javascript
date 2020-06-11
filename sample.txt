@@ -4,6 +4,6 @@ Technology Stack
 
 Java
 Javascript
-
+Spring Boot
 Spring MVC
 JSF
